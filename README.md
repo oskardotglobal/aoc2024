@@ -12,6 +12,6 @@ Languages to do maybe:
 - Rust
 - Zig
 
-Day 1: Nix
-Day 2: Elixir
-Day 3: Rust
+Day 1: Nix  
+Day 2: Elixir  
+Day 3: Rust  
