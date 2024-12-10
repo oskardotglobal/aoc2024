@@ -90,11 +90,7 @@ let
     in
     builtins.foldl' (acc: x: acc + x * (findCount x right)) 0 left;
 in
-{
-  inherit
-    similarity
-    distance
-    zip
-    unzip
-    ;
-}
+''
+  Part 1: ${builtins.toString similarity}
+  Part 2: ${builtins.toString distance}
+''
