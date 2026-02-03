@@ -6,15 +6,19 @@ Languages to do maybe:
 - [x] Rust
 - [x] Elixir
 - [x] Rust
+- [x] Kotlin
+- [x] OCaml
+- [ ] F#
 - [ ] C
 - [ ] C#
 - [ ] Perl
 - [ ] Nim
-- [ ] Kotlin
-- [ ] OCaml
-- [ ] F#
 - [ ] Zig
 
-Day 1: Nix  
-Day 2: Elixir  
-Day 3: Rust  
+Day 1: Nix<br>
+Day 2: Elixir<br>
+Day 3: Rust<br>
+Day 4: Kotlin<br>
+Day 5: C<br>
+Day 6: OCaml<br>
+
